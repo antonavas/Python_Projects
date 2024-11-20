@@ -1,6 +1,7 @@
-SALES ANALYSIS PROJECT
+## SALES ANALYSIS PROJECT
 
 This project is a sales analysis for a store using the pandas library for data processing and matplotlib for visualization and includes the next steps:
+
 1. Data Preparation: The data was loaded, checked for missing values and duplicates, cleaned, and new columns (such as the order month) were added.
 2. Monthly Sales Analysis: An analysis was conducted to identify the best month for sales. A graph shows that December is the most successful month, likely due to the holiday shopping season.
 3. City-wise Sales Analysis: The analysis identified which cities recorded the highest number of orders. San Francisco, Los Angeles, and New York had the highest order counts.
@@ -10,8 +11,9 @@ This project is a sales analysis for a store using the pandas library for data p
 
 Key Findings:
 
---December is the best month for sales.
---San Francisco, Los Angeles, and New York are the cities with the highest number of orders.
---The top-selling items are batteries and phone accessories.
---Certain products are frequently purchased together, which could be leveraged for cross-selling.
---This project demonstrates a complete data analysis workflow, from data cleaning and preparation to deriving actionable business insights
+- December is the best month for sales.- San Francisco, Los Angeles, and New York are the cities with the highest number of orders.
+- The top-selling items are batteries and phone accessories.
+- Certain products are frequently purchased together, which could be leveraged for cross-selling.
+- This project demonstrates a complete data analysis workflow, from data cleaning and preparation to deriving actionable business insights
+
+---
